@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="button_send">Отправить сообщение</string>
+    <string name="hint_enter_msg">Введите сообщение</string>
+
+
+    <string name="jade_name">Jade</string>
+    <string name="jade_description">Джейд (англ. Jade) — вымышленный игровой персонаж из серии Mortal Kombat. Дебютировала в 1993 году, когда появилась в качестве неуправляемого секретного персонажа в Mortal Kombat II в зелёном костюме с изменённой палитрой Китаны. Впоследствии в 1995 году Джейд стала играбельным персонажем в Ultimate Mortal Kombat 3. Она также появлялась в других произведениях медиафраншизы Mortal Kombat.</string>
+
+
+
+</resources>
